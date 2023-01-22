@@ -11,3 +11,10 @@ https://discord.gg/Cbb2Mb62hd
 Step 1 Remove the -main of of qb-radialmenu-main
 
 step 2 put it in your [qb] folder and restart your radial script
+
+# Dependancies
+qb-core: https://github.com/qbcore-framework/qb-core
+
+veh-control: https://github.com/Manvaril/vehcontrol
+
+dpemotes: https://github.com/andristum/dpemotes
